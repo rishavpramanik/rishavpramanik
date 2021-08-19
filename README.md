@@ -6,6 +6,4 @@ I am a CSE sophomore at Jadvapur University Kolkata India. I am intersted in (bu
 
 
 ## All about my GitHub Statistics
-![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavpramanik&show_icons=true&theme=tokyonight)
-
-
+[![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavpramanik)](https://github.com/rishavpramanik/github-readme-stats)
