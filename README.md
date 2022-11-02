@@ -7,5 +7,3 @@ I am a CSE junior at Jadvapur University, Kolkata, India. I am intersted in (but
 
 
 ![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavpramanik&show_icons=true&theme=cobalt&count_private=true)
-
-P.S: I won't mind recieving some cute panda related stuffs!
