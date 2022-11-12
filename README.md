@@ -1,3 +1,4 @@
+
 ### Hi everyone this is Rishav Pramanik this side:
 I am a Computer science undergardaute at Jadvapur University, Kolkata, India. I am intersted in (but not limited to) Machine Learning, Deep Learning and Nature Inspired Optimizers. Find my linkedin profile by clicking here [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='20'>](https://www.linkedin.com/in/rishavpramanik/). Please don't hesitate to let me know your queries by email [Rishav Pramanik](mailto:rishavpramanik@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 ## I am familiar with some very popular frameworks like: In addition daily exploration is something I enjoy
@@ -7,3 +8,5 @@ I am a Computer science undergardaute at Jadvapur University, Kolkata, India. I 
 
 
 ![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavpramanik&show_icons=true&theme=cobalt&count_private=true)
+
+The Panda in my profilie picture is [He Hua](http://www.panda.org.cn/english/news/news/2021-03-15/8568.html)
