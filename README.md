@@ -8,6 +8,6 @@ I am a Computer science undergardaute at Jadvapur University, Kolkata, India. I 
 
 
 ![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavpramanik&show_icons=true&theme=cobalt&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=rishavpramanik&theme=gotham&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rishavpramanik&theme=gotham&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true)](https://git.io/streak-stats)
 
 The Panda in my profilie picture is [He Hua](http://www.panda.org.cn/english/news/news/2021-03-15/8568.html)
