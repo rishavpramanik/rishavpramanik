@@ -1,6 +1,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-@rishavpramanik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RishavPramanik)](https://twitter.com/RishavPramanik) [![Linkedin Badge](https://img.shields.io/badge/-rishavpramanik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishavpramanik/)](https://www.linkedin.com/in/rishavpramanik/)
 ![](https://github.com/rishavpramanik)<img src="https://img.shields.io/github/followers/rishavpramanik?style=social"> <img src="https://img.shields.io/twitter/follow/rishavpramanik?style=social">
-## Hi everyone this is Rishav Pramanik this side:
+### Hi everyone this is Rishav Pramanik this side:
 
 I am a senior Computer science undergardaute at Jadvapur University, Kolkata, India. I am intersted in (but not limited to) Machine Learning, Deep Learning and Optimization. Please don't hesitate to let me know your queries by email [Rishav Pramanik](mailto:rishavpramanik@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
 ## I am familiar with some very popular frameworks like: In addition daily exploration is something I enjoy
