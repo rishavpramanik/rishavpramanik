@@ -2,7 +2,7 @@
 ![](https://github.com/rishavpramanik)<img src="https://img.shields.io/github/followers/rishavpramanik?style=social"> <img src="https://img.shields.io/twitter/follow/rishavpramanik?style=social">
 ### Hi everyone this is Rishav Pramanik this side:
 
-I am a senior Computer science undergardaute at Jadvapur University, Kolkata, India. I am intersted in (but not limited to) Machine Learning, Deep Learning and Optimization. Please don't hesitate to let me know your queries by email [rishavp.cse.ug@jadavpuruniversity.in](mailto:rishavp.cse.ug@jadavpuruniversity.in?subject=[GitHub]%20Source%20Han%20Sans). I will try my best to match your queries against the set of keys available with me to give you the best values :)
+I am PhD student at Stony Brook University, NY, USA. Before that I obtained my engineering degree Computer science & Engineering from Jadvapur University, Kolkata, India. I work on topics involving multimodal models, generative learning and unsupervised learning.
 
 ## About my GitHub Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=rishavpramanik&color=blue)
