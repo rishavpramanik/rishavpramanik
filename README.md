@@ -2,7 +2,7 @@
 ![](https://github.com/rishavpramanik)<img src="https://img.shields.io/github/followers/rishavpramanik?style=social"> <img src="https://img.shields.io/twitter/follow/rishavpramanik?style=social">
 ### Hi everyone this is Rishav Pramanik this side:
 
-I am PhD student at Stony Brook University, NY, USA. Before that I obtained my engineering degree Computer science & Engineering from Jadvapur University, Kolkata, India. I work on topics involving multimodal models, generative learning and unsupervised learning. In case you want to contact me, please reach me out at please email me: [rpramanik@cs.stonybrook.edu](mailto:rpramanik@cs.stonybrook.edu)
+I am PhD student at Stony Brook University, NY, USA. Before that I obtained my engineering degree Computer science & Engineering from Jadvapur University, Kolkata, India. I work on topics involving multimodal models, generative learning and unsupervised learning. In case you want to contact me, please do not hesitate to reach me out through email: [rpramanik@cs.stonybrook.edu](mailto:rpramanik@cs.stonybrook.edu)
 
 ## About my GitHub Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=rishavpramanik&color=blue)
