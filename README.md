@@ -11,4 +11,5 @@ I am PhD student at Stony Brook University, NY, USA. Before that I obtained my e
 ![Rishav's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishavpramanik&show_icons=true&theme=cobalt&count_private=true)
 [![GitHub Streak](https://streak-stats.demolab.com?user=rishavpramanik&theme=gotham&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true)](https://git.io/streak-stats)
 
+Apart from AI, if you are interested to discuss about Pandas, I am always ready to discuss Giant Pandas!
 The Panda in my profilie picture is [He Hua](https://en.wikipedia.org/wiki/Hua_Hua_(giant_panda))
