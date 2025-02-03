@@ -3,7 +3,8 @@
 ### Hi everyone this is Rishav Pramanik this side:
 
 I am PhD student at Stony Brook University, NY, USA. Before that I obtained my engineering degree Computer science & Engineering from Jadvapur University, Kolkata, India. I work on topics involving multimodal models, generative learning and unsupervised learning. In case you want to contact me, please do not hesitate to reach me out through email: [rpramanik@cs.stonybrook.edu](mailto:rpramanik@cs.stonybrook.edu)
-
+## My handles (Click them)
+[X (I still like to call it Twitter)](https://x.com/RishavPramanik) [Google Scholar](https://scholar.google.com/citations?user=HK0s3E0AAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/rishavpramanik/)
 ## About my GitHub Statistics
 ![Profile Views](https://komarev.com/ghpvc/?username=rishavpramanik&color=blue)
 
