@@ -3,7 +3,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/rishavpramanik?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/rishavpramanik?style=social)
 
-# 👋 Hi, this is Rishav Pramanik.
+# 👋 Hi, this is Rishav Pramanik
 
 I’m a PhD student at **Stony Brook University, New York**, trying to figure out how to make AI a bit more sensible, controllable, and interpretable, particularly in the space of **generative models and multimodal learning**. Before this, I did my undergrad in **Computer Science & Engineering** from **Jadavpur University**, Kolkata.
 
