@@ -5,7 +5,7 @@
 
 # 👋 Hi, this is Rishav Pramanik.
 
-I’m a PhD student at **Stony Brook University, New York**, trying to figure out how to make AI a bit more sensible, controllable, and interpretable — particularly in the space of **generative models and multimodal learning**. Before this, I did my undergrad in **Computer Science & Engineering** from **Jadavpur University**, Kolkata.
+I’m a PhD student at **Stony Brook University, New York**, trying to figure out how to make AI a bit more sensible, controllable, and interpretable, particularly in the space of **generative models and multimodal learning**. Before this, I did my undergrad in **Computer Science & Engineering** from **Jadavpur University**, Kolkata.
 
 I mostly work on questions like: *"How do we get generative models to do something meaningful, not random?"* or *"Can models learn from vision and language together without mountains of labels?"*
 
