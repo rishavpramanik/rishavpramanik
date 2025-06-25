@@ -41,6 +41,5 @@ If you also believe pandas are peak existence (or just wanna discuss generative 
 
 ![image](https://github.com/user-attachments/assets/fbaf40af-796f-482f-9295-08fd6d9271b7)
 
-When I ask ChatGPT to paint me, this is how it does.  
-To be fair... I kind of like it.
+> When I ask ChatGPT to paint me, this is how it does. To be fair... I kind of like it.
 ---
