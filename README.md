@@ -9,6 +9,8 @@ I’m a PhD student at **Stony Brook University, New York**, trying to figure ou
 
 I mostly work on questions like: *"How do we get generative models to do something meaningful, not random?"* or *"Can models learn from vision and language together without mountains of labels?"*
 
+I’ve collaborated with top academic labs, industry research teams, and startups to build practical generative pipelines. 
+
 If any of this sounds remotely interesting — or if you just want to chat about AI, life, or pandas — shoot me an email: **[rpramanik@cs.stonybrook.edu](mailto:rpramanik@cs.stonybrook.edu)**
 
 ---
