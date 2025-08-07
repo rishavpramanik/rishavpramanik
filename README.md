@@ -25,8 +25,6 @@ If any of this sounds remotely interesting — or if you just want to chat about
 ## 📊 GitHub Stuff
 ![Profile Views](https://komarev.com/ghpvc/?username=rishavpramanik&color=blue)
 
-![Rishav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishavpramanik&show_icons=true&theme=cobalt&count_private=true)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=rishavpramanik&theme=gotham&hide_border=true&border_radius=4.7&date_format=j%20M%5B%20Y%5D&mode=weekly&count_private=true)](https://git.io/streak-stats)
 
 ---
