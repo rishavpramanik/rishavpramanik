@@ -1,6 +1,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@rishavpramanik-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/RishavPramanik)](https://twitter.com/RishavPramanik)
 [![LinkedIn Badge](https://img.shields.io/badge/-rishavpramanik-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishavpramanik/)](https://www.linkedin.com/in/rishavpramanik/)
 ![GitHub followers](https://img.shields.io/github/followers/rishavpramanik?style=social)
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/rishavpramanik?style=social)
 
 # 👋 Hi, this is Rishav Pramanik
